@@ -57,7 +57,7 @@ curl https://vtx6omxt91.execute-api.us-east-1.amazonaws.com/dev/get
 * [nodejs & npm](https://nodejs.org/en/)
 * [serverless](https://serverless.com/)
 * [lumo](https://github.com/anmonteiro/lumo)
-* You have an AWS account and configured credentials
+* You have an AWS account and [configured credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-config-files.html)
 
 ## Credits
 
@@ -65,6 +65,7 @@ This work builds upon the great work done by:
 
 * [nervous-systems](https://github.com/nervous-systems/serverless-cljs-plugin)
 * [serverless](https://serverless.com/)
+* [Antonio Monteiro](https://github.com/anmonteiro/lumo)
 
 ## License
 
