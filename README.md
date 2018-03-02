@@ -1,5 +1,7 @@
 # jasani-serverless-lumo
 
+[![Clojars Project](https://img.shields.io/clojars/v/jasani-serverless-lumo/lein-template.svg)](https://clojars.org/jasani-serverless-lumo/lein-template)
+
 A Leiningen template for an npm serverless function compiled with lumo.
 
 ## Usage
