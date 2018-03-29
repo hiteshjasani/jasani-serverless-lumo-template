@@ -18,4 +18,5 @@
              ["serverless.yml" (render "serverless.yml" data)]
              ["Makefile" (render "Makefile" data)]
              ["README.md" (render "README.md" data)]
+             [".gitignore" (raw "gitignore")]
              )))
