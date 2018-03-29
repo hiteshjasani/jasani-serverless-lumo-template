@@ -17,4 +17,5 @@
              ["serverless-lumo.edn" (raw "serverless-lumo.edn")]
              ["serverless.yml" (render "serverless.yml" data)]
              ["Makefile" (render "Makefile" data)]
+             ["README.md" (render "README.md" data)]
              )))
