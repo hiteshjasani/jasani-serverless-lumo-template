@@ -6,6 +6,7 @@ custom:
 provider:
   name: aws
   runtime: nodejs6.10
+  memorySize: 128
 
 functions:
   get:
@@ -21,6 +22,7 @@ package:
     - node_modules/.yarn*
     - src/**
     - README.md
+    - serverless-lumo.edn
 
 plugins:
   - serverless-cljs-plugin
