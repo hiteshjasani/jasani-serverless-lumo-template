@@ -1,4 +1,4 @@
-(defproject jasani-serverless-lumo/lein-template "0.1.0"
+(defproject jasani-serverless-lumo/lein-template "0.1.1-SNAPSHOT"
   :description "A leiningen template to generate a serverless cljs/lumo project"
   :url "https://github.com/hiteshjasani/jasani-serverless-lumo-template"
   :license {:name "Eclipse Public License"
