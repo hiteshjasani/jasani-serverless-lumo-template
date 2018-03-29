@@ -23,6 +23,7 @@ package:
     - src/**
     - README.md
     - serverless-lumo.edn
+    - Makefile
 
 plugins:
   - serverless-cljs-plugin
